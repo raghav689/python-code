@@ -6,3 +6,12 @@ print(x>y)
 print(x<y)
 print(x>=y)
 print(x<=y)
+
+"""
+    False
+    True
+    False
+    True
+    False
+    True
+        """
